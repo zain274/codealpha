@@ -1,0 +1,13 @@
+words=[
+'java',
+'apple',
+'html',
+'nodejs',
+'flutter',
+'django',
+'flask',
+'fastapi',
+'docker',
+'asp',
+'swift'
+]

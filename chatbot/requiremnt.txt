@@ -1,0 +1,5 @@
+google-generativeai
+opencv-python
+Pillow
+pyperclip
+groq
